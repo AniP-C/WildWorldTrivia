@@ -1,0 +1,17 @@
+body{
+    color: black;
+    background-image: linear-gradient(to right, rgba(94, 192, 235, 0), rgb(28, 118, 141));
+    text-align:justify;
+
+
+}
+
+.subs{
+    color:black;
+    text-align: center;
+    font-size: larger;
+}
+
+.subl{
+    text-align: center;
+}
